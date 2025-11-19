@@ -1,0 +1,1 @@
+Placeholder images directory. Add your case study hero images here: abacus.jpg, ledger.jpg, nimbus.jpg.
